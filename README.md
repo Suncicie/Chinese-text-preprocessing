@@ -1,2 +1,2 @@
 # Chinese-text-preprocessing
-A Chinese text preprocessing framework
+A Chinese text preprocessing baseline
